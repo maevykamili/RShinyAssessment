@@ -1,0 +1,10 @@
+name: rshinyassessment
+title:
+username: maevykamili
+account: maevykamili
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 13565220
+bundleId: 9492781
+url: https://maevykamili.shinyapps.io/rshinyassessment/
+version: 1
